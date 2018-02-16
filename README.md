@@ -1,5 +1,12 @@
-# CSS Art: Koala
+# CSS Art:
 
-A fun and simple koala drawn using css.
+###  Koala 
 
 ![koala](./images/koala.png)
+
+
+
+### Elephant
+
+![elephant](./images/elephant.png)
+
